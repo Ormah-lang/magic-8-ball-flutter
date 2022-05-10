@@ -1,4 +1,4 @@
-![App Brewery Banner](magic-8-ball.png)
+![App Brewery Banner](images/magic-8-ball.png)
 
 
 # Magic 8 Ball 🎱
